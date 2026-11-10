@@ -30,6 +30,18 @@ Aplikasi web modern pembuat undangan pernikahan digital (*digital wedding invita
 
 ---
 
+## 📚 Dokumentasi Proyek Lengkap
+
+Seluruh dokumen perancangan dan arsitektur teknis tersedia di folder `/docs`:
+- 📋 [**BRD.md**](./docs/BRD.md): Business Requirements Document & Analisis Pasar
+- 📑 [**PRD.md**](./docs/PRD.md): Product Requirements Document & Kebutuhan Fungsional
+- 🔀 [**SYSTEM_FLOW.md**](./docs/SYSTEM_FLOW.md): Diagram Alur Sistem, Siklus Hidup & Penanganan Kasus Khusus
+- 🏗️ [**SYSTEM_SPECIFICATION.md**](./docs/SYSTEM_SPECIFICATION.md): Spesifikasi Teknis, Arsitektur & ERD Database
+- 🛡️ [**SECURITY_AND_COMPLIANCE.md**](./docs/SECURITY_AND_COMPLIANCE.md): Kepatuhan Standar ISO/IEC 27001:2022 & UU PDP
+- 📜 [**ARCHITECTURE_DECISIONS.md**](./docs/ARCHITECTURE_DECISIONS.md): Architecture Decision Records (ADR)
+
+---
+
 ## 🚀 Cara Menjalankan di Komputer Lokal
 
 1. Buka terminal di folder proyek ini (`d:\Website Invitation`).
